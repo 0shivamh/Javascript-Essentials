@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>
+            Shivam's Web
+        </title>
+    </head>
+    <body>
+        <script>
+            var date=new Date();
+            var day = new Array(7);
+            day[0] = "Sunday";
+            day[1] = "Monday";
+            day[2] = "Tuesday";
+            day[3] = "Wednesday";
+            day[4] = "Thursday";
+            day[5] = "Friday";
+            day[6] = "Saturday";
+            var d = day[date.getDay()];
+            var t=date.getHours() + ":" + date.getMinutes() + ":" + date.getSeconds();;
+            window.alert("Today is:"+d+" current Time is:"+t)
+            
+
+        </script>
+    </body>
+</html>
