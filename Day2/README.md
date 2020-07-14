@@ -10,7 +10,7 @@ console.time() // As name suggests it prints execution time whenever execution i
 console.timeEnd(); //it print  time taken by JS Script  execution. 
 console.table(): //it convert all object based format into table structure.
 
-**Example: (tab here to go);https://github.com/ShivamHande/Javascript-Essentials/blob/master/Day2/Day2_1.html 
+**Example: (tab here to go);https://github.com/ShivamHande/Javascript-Essentials/blob/master/Day2/Day2_1.html** 
 
 
 ## Q2. Write difference between var let and const with example
@@ -19,13 +19,13 @@ b) var is function scoped when it is declared within a function. This means that
 c) let can be updated but not re-declared.
 d) const declarations are block scoped.
 
-**Example: (tab here to go); https://github.com/ShivamHande/Javascript-Essentials/blob/master/Day2/Day2_2.html 
+**Example: (tab here to go); https://github.com/ShivamHande/Javascript-Essentials/blob/master/Day2/Day2_2.html** 
 
 ## Q3. Write a brief intro on available data types in js
 Ans:  I write article on it: check here: https://bit.ly/2ZrN8Zu
 Data types in Javascript : https://bit.ly/2ZrN8Zu
 
-Learn Javascript : https://bit.ly/2W6WaZX
+# Learn Javascript : https://bit.ly/2W6WaZX
 
 
  
