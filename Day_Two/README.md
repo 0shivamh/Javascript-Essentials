@@ -1,7 +1,9 @@
 
 ## Assignment question for day 2:-
 **1.Write a js code which takes input from the user and logs it in the console.**
+
 **2.Explain with examples the remaining methods for strings and array.**
+
 Ans: charAt()
 Returns the character at the specified index.
 charCodeAt()
