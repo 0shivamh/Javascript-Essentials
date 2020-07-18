@@ -22,10 +22,9 @@ d) const declarations are block scoped.
 **Example: (tab here to go); https://github.com/ShivamHande/Javascript-Essentials/blob/master/Day2/Day2_2.html** 
 
 ## Q3. Write a brief intro on available data types in js
-Ans:  I write article on it: check here: https://bit.ly/2ZrN8Zu
-Data types in Javascript : https://bit.ly/2ZrN8Zu
+Ans:  I write article on it: check here: https://bt.ly/2ZrN8Zu
+Data types in Javascript : 
 
-# Learn Javascript : https://bit.ly/2W6WaZX
 
 
  
