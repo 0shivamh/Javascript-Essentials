@@ -20,10 +20,10 @@ d) const declarations are block scoped.
 Example: (tab here to go); 
 
 Q3. Write a brief intro on available data types in js
-Ans:  I write article on it: check here: https://bit.ly/2ZrN8Zu
+Ans:  I write article on it: check here: https:/bit.ly/2ZrNZu
 Data types in Javascript 
 
-Learn Javascript : https://bit.ly/2W6WaZX
+
 
 
  
