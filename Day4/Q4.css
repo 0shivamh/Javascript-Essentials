@@ -1,0 +1,26 @@
+
+#ip{
+    width: 240px;
+    height: 30px;;
+    border-radius: 20px;
+    padding: 5px;
+}
+button{
+    background-color: rgb(60, 61, 61);
+    color: white;
+    width: 44px;
+    height: 40px;
+    transition: transform .2s;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: rgb(77, 76, 76);
+    transform: scale(1.1);
+}
+.Calc{
+    /* border: solid black; */
+    width: 300px;
+    padding: 5px;
+    padding-top: 50px;
+    margin: 2px auto;
+}

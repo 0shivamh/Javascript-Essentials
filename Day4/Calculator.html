@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Simple Calculator</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='Q4.css'>
+    <script src='Q4.js'></script>
+</head>
+<body>
+    <div class="Calc">
+    <input type="text"  id="ip" placeholder="Enter Values">
+
+    <table>
+        <!-- <tr>
+          <th>Firstname</th>
+          <th>Lastname</th>
+          <th>Age</th>
+        </tr> -->
+        <tr>
+          <td><button value="7" onclick="value1('7')" >7</button></td>
+          <td><button value="8" onclick="value1('8')" >8</button></td>
+          <td><button value="9" onclick="value1('9')" >9</button></td>
+          <td><button value="/" onclick="value1('/')" >/</button></td>
+          <!-- <td><button id="btn">non</button></td> -->
+          <td><button onclick="can()">C</button></td>
+        </tr>
+        <tr>
+          <td><button value="4" onclick="value1('4')">4</button></td>
+          <td><button value="5" onclick="value1('5')">5</button></td>
+          <td><button value="6" onclick="value1('6')">6</button></td>
+          <td><button value="*" onclick="value1('*')">*</button></td>
+          <!-- <td><button value="(" onclick="value1('(')">(</button></td>
+          <td><button value=")" onclick="value1(')')">)</button></td> -->
+        </tr>
+        <tr>
+            <td><button value="1" onclick="value1('1')">1</button></td>
+            <td><button value="2" onclick="value1('2')">2</button></td>
+            <td><button value="3" onclick="value1('3')">3</button></td>
+            <td><button value="-" onclick="value1('-')">-</button></td>
+            <td><button value="**" onclick="sq()">Sq</button></td>
+            <!-- <td><button >none</button></td> -->
+          </tr>
+          <tr>
+            <td><button value="0" onclick="value1('0')">0</button></td>
+            <td><button value="." onclick="value1('.')">.</button></td>
+            <td><button value="%" onclick="value1('%')">%</button></td>
+            <td><button value="+" onclick="value1('+')">+</button></td>
+            <td><button value="=" onclick="ans()" >=</button></td>
+            <!-- <td><button id="btn">7</button></td> -->
+          </tr>
+      </table>
+      </div>
+</body>
+</html>
