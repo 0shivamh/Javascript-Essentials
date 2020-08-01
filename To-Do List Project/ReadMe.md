@@ -1,10 +1,10 @@
 # To-Do List in JavaScript with some following functions:
 
-'''python
+```bash
 a. Add.
 b. Remove.
 c. Store the data in local storage.
-'''
+```
 
 
 ## Output of To-Do list*
